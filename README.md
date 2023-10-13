@@ -9,6 +9,7 @@ Stack can be implemented by two ways:-
 In this project, I'm going to implement the Stack using Array. 
 
 Some Applications of Stack are:-
+
 1~ Stacks are commonly used in programming languages to manage function calls.
 
 2~ Stacks are used to evaluate expressions, such as arithmetic expressions and nested expressions. They help in    
