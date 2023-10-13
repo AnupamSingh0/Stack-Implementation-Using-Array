@@ -3,7 +3,7 @@ A stack is a linear data structure that follows the Last In, First Out (LIFO) pr
 
 Stack can be implemented by two ways:-
 
-1.» Array     2.» Linked List
+1.» Array.   2.» Linked List. 
 
 In this project, I'm going to implement the Stack using Array. 
 
